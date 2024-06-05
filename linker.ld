@@ -2,8 +2,8 @@ ENTRY(_start)
 
 SECTIONS
 {
-    . = 0x8000;
-    __start = .;
+    . = 0x80000;
+    _start = .;
     .text :
     {
         KEEP(*(.text.boot))

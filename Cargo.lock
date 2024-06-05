@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "raspberry_baremetal"
+name = "RPi4B_baremetal_minimal_blink"
 version = "0.1.0"

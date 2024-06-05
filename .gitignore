@@ -1,1 +1,4 @@
-/target
+/target/
+/scripts/
+/kernel/
+!/kernel/config.txt
